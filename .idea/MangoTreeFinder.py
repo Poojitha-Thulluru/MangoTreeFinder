@@ -10,7 +10,7 @@ try :
 
     print(is_mango_tree(rows, columns, tree_number))
 
-except ValueError :                       # Accepts only valid inputs else handles exception
+except ValueError :                       # Accept only valid inputs else handles exception
     print("Invalid Input!!! Please Enter Integers Only that are greater than 0")
 
 
